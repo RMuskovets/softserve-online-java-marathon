@@ -1,0 +1,3 @@
+rootProject.name = 'softserve-java-online-marathon'
+include 'practice-tasks'
+
